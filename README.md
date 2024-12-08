@@ -1,4 +1,3 @@
-## CAT-Serve
 
 # Content-Aware Caching and Scheduling for Transformer Model Serving
 
