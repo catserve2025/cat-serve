@@ -48,7 +48,10 @@ Aiming to find novel ways to:
 - There will be no formal proceedings, allowing authors the flexibility to extend and publish their work in other conferences and journals.
 - For each accepted paper, at least one author must attend the workshop and present the paper.
 
-> The link for paper submission will be made available soon.
+### Paper submission system:   
+[Submit your paper here](https://cmt3.research.microsoft.com/CATSERVE2025/Submission/Index)   
+Please note you have to be a CMT registered user to submit.   
+[Register to CMT here](https://cmt3.research.microsoft.com/)  
 
 ### Workshop Committee
 
@@ -64,7 +67,11 @@ Avigail Oron, Huawei
 
 #### Contact Us
 
-Any questions may be directed to: cat-serve2025@googlegroups.com
+Any questions may be directed to: cat-serve2025@googlegroups.com  
+<br>
+<br>
+*The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
+
 
 
 
