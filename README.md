@@ -51,7 +51,7 @@ Aiming to find novel ways to:
 ### Paper submission system:   
 [Submit your paper here](https://cmt3.research.microsoft.com/CATSERVE2025/Submission/Index)   
 Please note you have to be a CMT registered user to submit.   
-[Register to CMT here](https://cmt3.research.microsoft.com/)  
+[Register to CMT here](https://cmt3.research.microsoft.com/User/Register)
 
 ### Workshop Committee
 
