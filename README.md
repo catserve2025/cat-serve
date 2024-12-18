@@ -14,7 +14,7 @@ CAT-Serve brings together researchers and practitioners to explore novel approac
 ### Important Dates
 
 -   Paper submission: **February 2, 2025**
--   Author Notification: **TBD**
+-   Author Notification: **Febuary 21, 2025**
 -   Camera-ready version: **March 23, 2025**
 -   Workshop: **March 31, 2025**
 
