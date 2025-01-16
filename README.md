@@ -40,7 +40,7 @@ Aiming to find novel ways to:
 
 ### Submission Guidelines
 
-- CAT-Serve welcomes submissions of short papers, up to 3 pages excluding references, using a double-column format.
+- CAT-Serve welcomes submissions of short papers, up to 3 pages excluding references, using a double-column format. You can use [this Latex template](CATServe2025_paper_template.tex).
 - Submissions should state the research problem, motivation, and technical contribution. All submissions must be in English. The submissions should be sent in a single PDF file.
 - Papers can present work in progress, exploratory/preliminary research or already published work.
 - Submissions will be assessed based on their novelty, technical quality, potential impact, interest, clarity, relevance, and reproducibility.
