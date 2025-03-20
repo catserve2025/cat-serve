@@ -13,6 +13,7 @@ CAT-Serve brings together researchers and practitioners to explore novel approac
 
 ### Agenda
 <!-- markdownlint-disable -->
+
 | Time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic | Speaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Institution |   
 |:-----------------|-------|---------|-------------|   
 |8:30-9:00| <i>Coffee and Registration</i> |||   
