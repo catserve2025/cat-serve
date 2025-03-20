@@ -12,6 +12,7 @@ The increasing deployment of transformer models in production environments has r
 CAT-Serve brings together researchers and practitioners to explore novel approaches that leverage request content understanding for system optimization.
 
 ### Agenda
+<!-- markdownlint-disable -->
 | Time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic | Speaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Institution |
 |:-----------------|-------|---------|-------------|
 |8:30-9:00| <i>Coffee and Registration</i> |||
@@ -26,7 +27,7 @@ CAT-Serve brings together researchers and practitioners to explore novel approac
 |12:30-13:00|<b>Planning Rust Features for System Programming Requirements (invited talk)</b>|Prof. Yijun Yu|The Open University, UK and a Director of Ada Language Engineering Lab at Huawei Ireland Research Center|
 |12:30-14:00|<i>Lunch Break</i>|||
 
-
+<!-- markdownlint-restore -->
 
 
 
