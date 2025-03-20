@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/37909ee7-dd81-4154-94f9-fc88fb477e7e)
 # Content-Aware Caching and Scheduling for Transformer Model Serving
 
 March 31st 2025 @ Rotterdam, The Netherlands
