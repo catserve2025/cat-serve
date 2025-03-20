@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/37909ee7-dd81-4154-94f9-fc88fb477e7e)
 # Content-Aware Caching and Scheduling for Transformer Model Serving
 
 March 31st 2025 @ Rotterdam, The Netherlands
@@ -10,6 +10,44 @@ Held in conjunction with [ASPLOS 2025](https://www.asplos-conference.org/asplos2
 The increasing deployment of transformer models in production environments has revealed fundamental challenges in traditional caching and scheduling approaches that treat all requests equally. This workshop focuses on the emerging paradigm of content-aware system design for transformer serving, where caching decisions and scheduling policies are guided by the semantic patterns and computational characteristics of incoming requests adaptively. As transformer applications span from simple queries to complex chain-of-thought reasoning and RAG-enhanced processing, the variance in resource requirements and execution patterns demands more sophisticated serving strategies.
 
 CAT-Serve brings together researchers and practitioners to explore novel approaches that leverage request content understanding for system optimization.
+
+### Agenda
+| Time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic | Speaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Institution |
+|:-----------------|-------|---------|-------------|
+|8:30-9:00| <i>Coffee and Registration</i> |
+|9:00-9:10| <b>Welcome speech</b> |Prof. Freddy Gabbay|HUJI, Israel|
+|9:10-9:30|<b>Keynote| Gil Bloch, Principal architect|Nvidia|
+|9:30-10:00|<b>Context fast fusion for ehanced LLM Scheduling|Dr. Joseph Kampeas|Huawei Tel-Aviv Research Center, Israel|
+|10:00-10:30|<b>Boosting Transformer Efficiency with Decomposition and Adaptive Scheduling|Dr. Ori Schweitzer|Technion - Israel Institute of Technology, Israel|
+|10:30-11:00|<i>Coffee Break</i>|
+|11:00-11:30|<b>CacheTrie: Optimizing Reuse of KV Cache via Path-compressed Trie</b>|Chou Weizhong|Huawei Computing Product Line in cooperation with University of Science and Technology of China, China|
+|11:30-12:00|<b>SSSD: Simply-Scalable Speculative Decoding for Large Batch LLM Inference</b>|Michele Marzollo|Huawei Zurich Research Center|
+|12:00-12:30|<b>Energy-aware and Adaptive Model Serving for DL Inference Stream” (invited talk)</b>|Prof. Demetris Trihinas|University of Nicosia, Cyprus|
+|12:30-13:00|<b>Planning Rust Features for System Programming Requirements (invited talk)</b>|Prof. Yijun Yu|The Open University, UK and a Director of Ada Language Engineering Lab at Huawei Ireland Research Center|
+|12:30-14:00|<i>Lunch Break</i>|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Important Dates
 
