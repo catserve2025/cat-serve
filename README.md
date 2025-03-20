@@ -13,19 +13,19 @@ CAT-Serve brings together researchers and practitioners to explore novel approac
 
 ### Agenda
 <!-- markdownlint-disable -->
-| Time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic | Speaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Institution |
-|:-----------------|-------|---------|-------------|
-|8:30-9:00| <i>Coffee and Registration</i> |||
-|9:00-9:10| <b>Welcome speech</b> |Prof. Freddy Gabbay|HUJI, Israel|
-|9:10-9:30|<b>Keynote| Gil Bloch, Principal architect|Nvidia|
-|9:30-10:00|<b>Context fast fusion for ehanced LLM Scheduling|Dr. Joseph Kampeas|Huawei Tel-Aviv Research Center, Israel|
-|10:00-10:30|<b>Boosting Transformer Efficiency with Decomposition and Adaptive Scheduling|Dr. Ori Schweitzer|Technion - Israel Institute of Technology, Israel|
-|10:30-11:00|<i>Coffee Break</i>|||
-|11:00-11:30|<b>CacheTrie: Optimizing Reuse of KV Cache via Path-compressed Trie</b>|Chou Weizhong|Huawei Computing Product Line in cooperation with University of Science and Technology of China, China|
-|11:30-12:00|<b>SSSD: Simply-Scalable Speculative Decoding for Large Batch LLM Inference</b>|Michele Marzollo|Huawei Zurich Research Center|
-|12:00-12:30|<b>Energy-aware and Adaptive Model Serving for DL Inference Stream” (invited talk)</b>|Prof. Demetris Trihinas|University of Nicosia, Cyprus|
-|12:30-13:00|<b>Planning Rust Features for System Programming Requirements (invited talk)</b>|Prof. Yijun Yu|The Open University, UK and a Director of Ada Language Engineering Lab at Huawei Ireland Research Center|
-|12:30-14:00|<i>Lunch Break</i>|||
+| Time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic | Speaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Institution |   
+|:-----------------|-------|---------|-------------|   
+|8:30-9:00| <i>Coffee and Registration</i> |||   
+|9:00-9:10| <b>Welcome speech</b> |Prof. Freddy Gabbay|HUJI, Israel|   
+|9:10-9:30|<b>Keynote| Gil Bloch, Principal architect|Nvidia|   
+|9:30-10:00|<b>Context fast fusion for ehanced LLM Scheduling|Dr. Joseph Kampeas|Huawei Tel-Aviv Research Center, Israel|   
+|10:00-10:30|<b>Boosting Transformer Efficiency with Decomposition and Adaptive Scheduling|Dr. Ori Schweitzer|Technion - Israel Institute of Technology, Israel|   
+|10:30-11:00|<i>Coffee Break</i>|||    
+|11:00-11:30|<b>CacheTrie: Optimizing Reuse of KV Cache via Path-compressed Trie</b>|Chou Weizhong|Huawei Computing Product Line in cooperation with University of Science and Technology of China, China|    
+|11:30-12:00|<b>SSSD: Simply-Scalable Speculative Decoding for Large Batch LLM Inference</b>|Michele Marzollo|Huawei Zurich Research Center|   
+|12:00-12:30|<b>Energy-aware and Adaptive Model Serving for DL Inference Stream” (invited talk)</b>|Prof. Demetris Trihinas|University of Nicosia, Cyprus|  
+|12:30-13:00|<b>Planning Rust Features for System Programming Requirements (invited talk)</b>|Prof. Yijun Yu|The Open University, UK and a Director of Ada Language Engineering Lab at Huawei Ireland Research Center|  
+|12:30-14:00|<i>Lunch Break</i>|||   
 
 <!-- markdownlint-restore -->
 
