@@ -18,7 +18,7 @@ CAT-Serve brings together researchers and practitioners to explore novel approac
 |:-----------------|-------|---------|-------------|   
 |8:30-9:00| <i>Coffee and Registration</i> |||   
 |9:00-9:10| <b>Welcome speech</b> |Prof. Freddy Gabbay|HUJI, Israel|   
-|9:10-9:30|<b>Keynote| Gil Bloch, Principal architect|Nvidia|   
+|9:10-9:30|<b>Keynote</b></br> Optimizing Transformer Model Serving: From Training to Content-Aware Inference| Gil Bloch, Principal architect|Nvidia|   
 |9:30-10:00|<b>Context fast fusion for ehanced LLM Scheduling|Dr. Joseph Kampeas|Huawei Tel-Aviv Research Center, Israel|   
 |10:00-10:30|<b>Boosting Transformer Efficiency with Decomposition and Adaptive Scheduling|Dr. Ori Schweitzer|Technion - Israel Institute of Technology, Israel|   
 |10:30-11:00|<i>Coffee Break</i>|||    
